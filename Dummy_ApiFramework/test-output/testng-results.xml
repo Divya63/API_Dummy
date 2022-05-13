@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10135" started-at="2022-05-13T12:30:54 IST" finished-at="2022-05-13T12:31:04 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10135" started-at="2022-05-13T12:30:54 IST" finished-at="2022-05-13T12:31:04 IST">
+      <class name="org.testing.testScripts.TC10_RealTime_Delete">
+        <test-method status="PASS" signature="testCase10()[pri:0, instance:org.testing.testScripts.TC10_RealTime_Delete@25af5db5]" name="testCase10" duration-ms="1130" started-at="2022-05-13T12:31:00 IST" finished-at="2022-05-13T12:31:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase10 -->
+      </class> <!-- org.testing.testScripts.TC10_RealTime_Delete -->
+      <class name="org.testing.testScripts.TC8_RealTime_GetAll">
+        <test-method status="PASS" signature="testCase8()[pri:0, instance:org.testing.testScripts.TC8_RealTime_GetAll@5bfbf16f]" name="testCase8" duration-ms="1234" started-at="2022-05-13T12:30:59 IST" finished-at="2022-05-13T12:31:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase8 -->
+      </class> <!-- org.testing.testScripts.TC8_RealTime_GetAll -->
+      <class name="org.testing.testScripts.TC7_RealTime_Get">
+        <test-method status="PASS" signature="testCase7()[pri:0, instance:org.testing.testScripts.TC7_RealTime_Get@12cdcf4]" name="testCase7" duration-ms="2186" started-at="2022-05-13T12:31:01 IST" finished-at="2022-05-13T12:31:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase7 -->
+      </class> <!-- org.testing.testScripts.TC7_RealTime_Get -->
+      <class name="org.testing.testScripts.TC6_RealTime_Post">
+        <test-method status="PASS" signature="testCase6()[pri:0, instance:org.testing.testScripts.TC6_RealTime_Post@26a7b76d]" name="testCase6" duration-ms="4396" started-at="2022-05-13T12:30:54 IST" finished-at="2022-05-13T12:30:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase6 -->
+      </class> <!-- org.testing.testScripts.TC6_RealTime_Post -->
+      <class name="org.testing.testScripts.TC9_RealTime_Put">
+        <test-method status="PASS" signature="testCase9()[pri:0, instance:org.testing.testScripts.TC9_RealTime_Put@5bcea91b]" name="testCase9" duration-ms="1105" started-at="2022-05-13T12:31:03 IST" finished-at="2022-05-13T12:31:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase9 -->
+      </class> <!-- org.testing.testScripts.TC9_RealTime_Put -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
