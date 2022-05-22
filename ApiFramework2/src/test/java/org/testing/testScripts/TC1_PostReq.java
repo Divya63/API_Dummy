@@ -32,8 +32,8 @@ public class TC1_PostReq {
 		
 		
 		// 17th April
-		Properties pr = LoadFile.loadproperties("../ApiFramework/URI.properties" );
-		String jsonbody = LoadJsonFIle.jsonData("../ApiFramework/src/test/java/org/testing/resources/requestpayload.json");
+		Properties pr = LoadFile.loadproperties("../ApiFramework2/URI.properties" );
+		String jsonbody = LoadJsonFIle.jsonData("../ApiFramework2/src/test/java/org/testing/resources/requestpayload.json");
 		
 		//random class will generate random value for string
 		Random rn = new Random();

@@ -17,8 +17,8 @@ public class TC4_PutRequest
 	@Test
 	public static void testCase4() throws IOException {
 	
-		Properties pr = LoadFile.loadproperties("../ApiFramework/URI.properties" );
-		String jsonbody = LoadJsonFIle.jsonData("../ApiFramework/src/test/java/org/testing/resources/update_payload.json");
+		Properties pr = LoadFile.loadproperties("../ApiFramework2/URI.properties" );
+		String jsonbody = LoadJsonFIle.jsonData("../ApiFramework2/src/test/java/org/testing/resources/update_payload.json");
 				
 		HTTPMethods http = new HTTPMethods(pr);
 		Response resp = http.PutReq(jsonbody, "QA_Java_URI", TC1_PostReq.respiIdValue);

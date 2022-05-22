@@ -16,7 +16,7 @@ public class TC5_DeleteRequest {
 	public  void testCase5() throws IOException {
 		
 		
-		 Properties pr = LoadFile.loadproperties("../ApiFramework/URI.properties" );
+		 Properties pr = LoadFile.loadproperties("../ApiFramework2/URI.properties" );
 		 HTTPMethods http = new HTTPMethods(pr);
 		Response res =  http.DeleteReq("QA_Java_URI", TC1_PostReq.respiIdValue);
 		

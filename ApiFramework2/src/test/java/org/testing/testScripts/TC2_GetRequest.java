@@ -14,7 +14,7 @@ public class TC2_GetRequest {
 	
 	@Test
 	public  void testCase2() throws IOException {		
-		 Properties pr = LoadFile.loadproperties("../ApiFramework/URI.properties" );
+		 Properties pr = LoadFile.loadproperties("../ApiFramework2/URI.properties" );
 		 HTTPMethods http = new HTTPMethods(pr);
 		Response res =  http.GetReq("QA_Java_URI", TC1_PostReq.respiIdValue);
 		

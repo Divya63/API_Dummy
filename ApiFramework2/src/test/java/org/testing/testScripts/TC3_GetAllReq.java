@@ -15,7 +15,7 @@ public class TC3_GetAllReq
 	@Test
 	public  void testCase3() throws IOException {
 		
-		Properties pr = LoadFile.loadproperties("../ApiFramework/URI.properties" );
+		Properties pr = LoadFile.loadproperties("../ApiFramework2/URI.properties" );
 		HTTPMethods http = new HTTPMethods(pr);
 		Response res =  http.GetAllReq("QA_Java_URI");
 		

@@ -3,9 +3,12 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="org.testing.testScripts.TC1_PostReq"/>
       
+       <class name="org.testing.testScripts.TC3_GetAllReq"/>
+       <class name="org.testing.testScripts.TC4_PutRequest"/>
+       <class name="org.testing.testScripts.TC5_DeleteRequest"/>
        <!-- 
+       <class name="org.testing.testScripts.TC1_PostReq"/>
         <class name="org.testing.testScripts.TC2_GetRequest"/>
       <class name="org.testing.testScripts.TC3_GetAllReq"/>
        <class name="org.testing.testScripts.TC4_PutRequest"/>

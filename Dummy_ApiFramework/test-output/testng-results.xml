@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="10135" started-at="2022-05-13T12:30:54 IST" finished-at="2022-05-13T12:31:04 IST">
+  <suite name="Suite" duration-ms="8445" started-at="2022-05-22T23:18:26 IST" finished-at="2022-05-22T23:18:34 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="10135" started-at="2022-05-13T12:30:54 IST" finished-at="2022-05-13T12:31:04 IST">
+    <test name="Test" duration-ms="8445" started-at="2022-05-22T23:18:26 IST" finished-at="2022-05-22T23:18:34 IST">
       <class name="org.testing.testScripts.TC10_RealTime_Delete">
-        <test-method status="PASS" signature="testCase10()[pri:0, instance:org.testing.testScripts.TC10_RealTime_Delete@25af5db5]" name="testCase10" duration-ms="1130" started-at="2022-05-13T12:31:00 IST" finished-at="2022-05-13T12:31:01 IST">
+        <test-method status="PASS" signature="testCase10()[pri:0, instance:org.testing.testScripts.TC10_RealTime_Delete@27f723]" name="testCase10" duration-ms="1242" started-at="2022-05-22T23:18:30 IST" finished-at="2022-05-22T23:18:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase10 -->
       </class> <!-- org.testing.testScripts.TC10_RealTime_Delete -->
       <class name="org.testing.testScripts.TC8_RealTime_GetAll">
-        <test-method status="PASS" signature="testCase8()[pri:0, instance:org.testing.testScripts.TC8_RealTime_GetAll@5bfbf16f]" name="testCase8" duration-ms="1234" started-at="2022-05-13T12:30:59 IST" finished-at="2022-05-13T12:31:00 IST">
+        <test-method status="PASS" signature="testCase8()[pri:0, instance:org.testing.testScripts.TC8_RealTime_GetAll@5f3a4b84]" name="testCase8" duration-ms="1294" started-at="2022-05-22T23:18:29 IST" finished-at="2022-05-22T23:18:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase8 -->
       </class> <!-- org.testing.testScripts.TC8_RealTime_GetAll -->
       <class name="org.testing.testScripts.TC7_RealTime_Get">
-        <test-method status="PASS" signature="testCase7()[pri:0, instance:org.testing.testScripts.TC7_RealTime_Get@12cdcf4]" name="testCase7" duration-ms="2186" started-at="2022-05-13T12:31:01 IST" finished-at="2022-05-13T12:31:03 IST">
+        <test-method status="PASS" signature="testCase7()[pri:0, instance:org.testing.testScripts.TC7_RealTime_Get@670b40af]" name="testCase7" duration-ms="1447" started-at="2022-05-22T23:18:32 IST" finished-at="2022-05-22T23:18:33 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase7 -->
       </class> <!-- org.testing.testScripts.TC7_RealTime_Get -->
       <class name="org.testing.testScripts.TC6_RealTime_Post">
-        <test-method status="PASS" signature="testCase6()[pri:0, instance:org.testing.testScripts.TC6_RealTime_Post@26a7b76d]" name="testCase6" duration-ms="4396" started-at="2022-05-13T12:30:54 IST" finished-at="2022-05-13T12:30:59 IST">
+        <test-method status="PASS" signature="testCase6()[pri:0, instance:org.testing.testScripts.TC6_RealTime_Post@e874448]" name="testCase6" duration-ms="3137" started-at="2022-05-22T23:18:26 IST" finished-at="2022-05-22T23:18:29 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase6 -->
       </class> <!-- org.testing.testScripts.TC6_RealTime_Post -->
       <class name="org.testing.testScripts.TC9_RealTime_Put">
-        <test-method status="PASS" signature="testCase9()[pri:0, instance:org.testing.testScripts.TC9_RealTime_Put@5bcea91b]" name="testCase9" duration-ms="1105" started-at="2022-05-13T12:31:03 IST" finished-at="2022-05-13T12:31:04 IST">
+        <test-method status="PASS" signature="testCase9()[pri:0, instance:org.testing.testScripts.TC9_RealTime_Put@4923ab24]" name="testCase9" duration-ms="1292" started-at="2022-05-22T23:18:33 IST" finished-at="2022-05-22T23:18:34 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase9 -->
